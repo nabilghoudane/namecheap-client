@@ -24,9 +24,9 @@
     },
     "extra":{
         "laravel":{
-            "providers":{
+            "providers":[
                 "Nobilecode\\NamecheapClient\\Providers\\NamecheapClientApiServiceProvider"
-            }
+            ]
         }
     }
 }
