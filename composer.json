@@ -1,0 +1,25 @@
+{
+    "name": "nobilecode/namecheap-client",
+    "description": "SDK Namecheap Client API",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^8.0@dev",
+        "php": "^7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.1@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nabil Ghoudane",
+            "email": "nabilghoudane@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+            "Nobilecode\\NamecheapClient\\": "src"
+        }
+    }
+}
