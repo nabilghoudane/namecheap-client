@@ -13,5 +13,6 @@ class NamecheapClientApiServiceProvider extends ServiceProvider
 
     public function boot()
     {
+        dd("say hello");
     }
 }
