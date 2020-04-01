@@ -3,7 +3,7 @@
     "description": "SDK Namecheap Client API",
     "type": "library",
     "require": {
-        "laravel/framework": "^7.x",
+        "laravel/framework": "^7.0",
         "illuminate/support": "^8.0",
         "php": "^7.0"
     },
