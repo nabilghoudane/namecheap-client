@@ -1,7 +1,6 @@
 {
     "name": "nobilecode/namecheap-client",
     "description": "SDK Namecheap Client API",
-    "version": "1.0.0-dev",
     "type": "library",
     "require": {
         "laravel/framework": "^7.0",
